@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MPBC_SchLib")(type "KiCad")(uri "${KIPRJMOD}/MPBC_SchLib.kicad_sym")(options "")(descr ""))
+)
