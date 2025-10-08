@@ -3803,7 +3803,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "15982e44-e557-416c-9f59-63ec729ec28d")
 		(property "Reference" "R8"
@@ -4112,7 +4112,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "24851935-1fe8-422d-88a8-a23399342e62")
 		(property "Reference" "C9"
 			(at 166.37 97.7899 0)
@@ -4450,7 +4450,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "346c59ae-94a4-4d28-bb4c-fff039183ddc")
 		(property "Reference" "C12"
 			(at 193.802 112.014 0)
@@ -4727,7 +4727,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4cfe3edf-113b-42ec-b8a8-33dc0425a6b5")
 		(property "Reference" "C14"
 			(at 184.912 136.144 0)
@@ -4866,7 +4866,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "530df283-2fcd-442e-b4a6-11ed893b9476")
 		(property "Reference" "C11"
 			(at 184.912 112.014 0)
@@ -5212,7 +5212,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5f818339-08fc-4d17-b8ed-2f05e2a65c8b")
 		(property "Reference" "R9"
@@ -5418,7 +5418,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6fd34299-783e-4f7b-a264-2119c64e75d2")
 		(property "Reference" "C16"
 			(at 197.612 136.144 0)
@@ -5689,7 +5689,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9099df35-61f1-41bd-819f-9523e6f888a8")
 		(property "Reference" "C15"
 			(at 191.262 136.144 0)
@@ -5964,7 +5964,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9cb5e7f3-43a9-4a48-a3d9-5c53d9778dac")
 		(property "Reference" "C10"
 			(at 166.37 128.2699 0)
@@ -7175,7 +7175,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f8cbfd89-6330-4c72-924b-4dadf3bebb98")
 		(property "Reference" "C17"
 			(at 203.962 136.144 0)
