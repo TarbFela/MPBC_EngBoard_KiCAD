@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 0 0)
+			(at 0.508 -0.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15,7 +15,7 @@
 			)
 		)
 		(property "Value" "MP1909"
-			(at 0 0 0)
+			(at 3.556 -2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51,8 +51,8 @@
 		)
 		(symbol "MP1909_0_1"
 			(rectangle
-				(start 0 -1.27)
-				(end 12.7 -16.51)
+				(start 0 -3.81)
+				(end 12.7 -19.05)
 				(stroke
 					(width 0)
 					(type default)
@@ -64,7 +64,7 @@
 		)
 		(symbol "MP1909_1_1"
 			(pin power_in line
-				(at -2.54 -2.54 0)
+				(at -2.54 -5.08 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -82,7 +82,7 @@
 				)
 			)
 			(pin input line
-				(at -2.54 -7.62 0)
+				(at -2.54 -10.16 0)
 				(length 2.54)
 				(name "PWM"
 					(effects
@@ -100,7 +100,7 @@
 				)
 			)
 			(pin input line
-				(at -2.54 -10.16 0)
+				(at -2.54 -12.7 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -118,7 +118,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -2.54 -15.24 0)
+				(at -2.54 -17.78 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -136,7 +136,7 @@
 				)
 			)
 			(pin output line
-				(at 15.24 -2.54 180)
+				(at 15.24 -5.08 180)
 				(length 2.54)
 				(name "DRVH"
 					(effects
@@ -154,7 +154,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -8.89 180)
+				(at 15.24 -11.43 180)
 				(length 2.54)
 				(name "BST"
 					(effects
@@ -172,7 +172,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -12.7 180)
+				(at 15.24 -15.24 180)
 				(length 2.54)
 				(name "SW"
 					(effects
@@ -190,7 +190,7 @@
 				)
 			)
 			(pin output line
-				(at 15.24 -15.24 180)
+				(at 15.24 -17.78 180)
 				(length 2.54)
 				(name "DRVL"
 					(effects
